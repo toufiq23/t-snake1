@@ -1,0 +1,13 @@
+{
+  "name": "t-snake1",
+  "version": "1.0.0",
+  "description": "t-snake1 JS project",
+  "main": "serve",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.3.1"
+  },
+  "author": "M Toufiq ELAHI"
+}
